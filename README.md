@@ -1,8 +1,8 @@
-# Speech to Text Translator
-
 <p align="center">
-  <img src="logo.png" alt="Speech to Text Translator Logo" width="200">
+  <img src="logo.png" alt="Speech to Text Translator Logo" width="300">
 </p>
+
+# Speech to Text Translator
 
 A modern web application that converts speech to text in real-time with support for multiple languages.
 
