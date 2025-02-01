@@ -1,0 +1,15 @@
+{
+    "name": "speech-to-text-app",
+    "version": "1.0.0",
+    "description": "A modern web application that converts speech to text in real-time with support for multiple languages.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "prettier": "^3.4.2"
+    }
+}
